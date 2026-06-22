@@ -23,22 +23,6 @@
   </a>
 </div>
 
-
-## 📌 &nbsp;Featured Repositories
-
-<div align="center">
-  <a href="https://github.com/D3athMayCry/crud-baltaio" target="_blank">
-    <img src="https://img.shields.io/badge/-API%20CRUD-%23000000?style=for-the-badge&logo=github&logoColor=white" alt="API CRUD"/>
-  </a>
-  <a href="https://github.com/D3athMayCry/Suckerpass" target="_blank">
-    <img src="https://img.shields.io/badge/-Suckerpass-%23000000?style=for-the-badge&logo=github&logoColor=white" alt="Suckerpass"/>
-  </a>
-  <a href="https://github.com/D3athMayCry/AssaultCube-Aimbot" target="_blank">
-    <img src="https://img.shields.io/badge/-Aimbot%20ESP-%23000000?style=for-the-badge&logo=github&logoColor=white" alt="Aimbot ESP"/>
-  </a>
-</div>
-
-
 ## 🛠 &nbsp;Tech Stack
 
 <div align="center">
